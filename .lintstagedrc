@@ -1,0 +1,4 @@
+{
+  "src/**/*.{ts,tsx}": ["tslint -c tslint.json -p tsconfig.json", "git add"],
+  "src/**/*.scss": ["sass-lint -vq", "git add"]
+}

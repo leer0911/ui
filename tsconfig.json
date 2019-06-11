@@ -7,10 +7,7 @@
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
     "jsx": "react",
-    "lib": [
-      "dom",
-      "es2018"
-    ],
+    "lib": ["dom", "es2018"],
     "module": "es6",
     "moduleResolution": "node",
     "noEmitOnError": true,
@@ -23,12 +20,6 @@
     "skipLibCheck": true,
     "target": "es5"
   },
-  "exclude": [
-    "es",
-    "node_modules",
-    "__tests__"
-  ],
-  "include": [
-    "src"
-  ]
+  "exclude": ["es", "node_modules", "__tests__"],
+  "include": ["src"]
 }

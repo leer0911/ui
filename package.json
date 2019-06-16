@@ -11,7 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.8.6"
+    "react": "^16.8.6",
+    "rmc-notification": "^1.0.0",
+    "rmc-dialog": "^1.1.1",
+    "rmc-feedback": "^2.0.0",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
@@ -30,11 +34,8 @@
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "lint-staged": "^8.2.0",
-    "normalize.css": "^8.0.1",
     "prettier": "^1.18.2",
     "react-docgen-typescript-loader": "^3.1.0",
-    "rmc-dialog": "^1.1.1",
-    "rmc-feedback": "^2.0.0",
     "storybook-addon-jsx": "^7.1.2",
     "storybook-readme": "^5.0.3",
     "style-loader": "^0.23.1",

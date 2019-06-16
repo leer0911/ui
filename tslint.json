@@ -4,6 +4,7 @@
     "quotemark": false,
     "no-implicit-dependencies": false,
     "interface-name": false,
-    "array-type": false
+    "array-type": false,
+    "no-empty":false
   }
 }

@@ -4,7 +4,7 @@ import README from './README.md';
 import Demo from './demo';
 import DemoRaw from '!raw-loader!./demo';
 
-storiesOf('Button', module)
+storiesOf('Modal', module)
   .addParameters({
     notes: README,
   })
